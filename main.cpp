@@ -5,13 +5,9 @@ using std::cout;
 using std::endl;
 
 #include "Arrays.h"
-#include "Arrays.cpp"
 #include "Memory.h"
-#include "Memory.cpp"
 #include"Print.h"
-#include"Print.cpp"
 #include "Random.h"
-#include "Random.cpp"
 
 
 typedef double DataType;
